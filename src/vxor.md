@@ -22,7 +22,7 @@ VXOR, or SORA Vested XOR, is a new token designed to foster productive economic 
 - Support for SORAized Countries: Beyond individual builders, SORAized countries—nations that integrate XOR into their economies—can also receive VXOR through on-chain governance to bolster their economic expansion. The aim is to apply economic principles (ΔMV = ΔPY) to support increased purchasing power and economic growth in XOR-using regions.
 - Sustainable XOR Supply Reduction: VXOR’s integration into SORA’s “v3 tokenomics” continues the gradual reduction in XOR supply, promoting a stable and long-term growth strategy for the SORA ecosystem.
 
-picture
+![](.gitbook/assets/sora_vxor_infinite_loop.png)
 
 # In Summary
 
