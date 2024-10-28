@@ -11,6 +11,8 @@ head:
 
 # VXOR Token Overview
 
+<center><img src=".gitbook/assets/vxor.svg" width="250"></center>
+
 VXOR, or SORA Vested XOR, is a new token designed to foster productive economic growth within the SORA ecosystem. VXOR encourages long-term commitment from users by offering benefits tied to the vesting of XOR. This unique token aligns with SORA's goal of building a stable and incentivized community of builders and participants, including national entities.
 
 # Key Features:
