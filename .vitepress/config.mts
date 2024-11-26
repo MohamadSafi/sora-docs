@@ -113,6 +113,10 @@ export default withMermaid(
                       text: "KARMA",
                       link: "/karma",
                     },
+                    {
+                      text: "VXOR",
+                      link: "vxor",
+                    },
                   ],
                 },
                 { text: "SORA Governance", link: "/sora-governance" },
@@ -276,6 +280,7 @@ export default withMermaid(
                   text: "Vote in Governance",
                   link: "/participate-sora-governance",
                 },
+                { text: "Vesting tokens", link: "vesting-tokens" },
               ],
             },
             {
@@ -347,6 +352,7 @@ export default withMermaid(
                               text: "Other Polkaswap Settings",
                               link: "/polkaswap-other-settings",
                             },
+                            { text: "Vesting tokens in Polkaswap", link: "vesting-tokens-polkaswap" },
                           ],
                         },
                         { text: "Referral System", link: "/referral-polkaswap" },
